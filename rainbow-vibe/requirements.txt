@@ -1,0 +1,9 @@
+boto3
+bedrock-agentcore
+strands-agents 
+strands-agents-tools
+bedrock-agentcore-starter-toolkit
+uv
+playwright
+nest_asyncio
+streamlit

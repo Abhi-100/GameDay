@@ -1,0 +1,33 @@
+# Cipher Quest Agent Dependencies - COMPLETE VERSION
+
+# Core AgentCore and Strands dependencies
+boto3
+bedrock-agentcore
+strands-agents 
+strands-agents-tools
+bedrock-agentcore-starter-toolkit
+
+# Python package manager
+uv
+
+# Additional dependencies for cipher operations
+# (Most cipher operations use built-in Python libraries)
+
+# For testing and development
+pytest
+unittest-xml-reporting
+
+# For advanced mathematical operations (if needed)
+numpy
+
+# For JSON handling and data processing
+# (Built into Python standard library)
+
+# For regular expressions and text processing
+# (Built into Python standard library)
+
+# For statistical analysis in cryptanalysis
+scipy
+
+# For web interface testing (optional)
+streamlit

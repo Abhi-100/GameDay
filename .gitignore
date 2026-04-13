@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Zip archives (can be regenerated)
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AgentCore build artifacts
+.bedrock_agentcore.yaml
+.agentcore/
+cipher_quest_agent_arn.txt
+
+# Node
+node_modules/
+
+# Playwright browsers
+.playwright/

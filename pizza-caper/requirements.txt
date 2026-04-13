@@ -1,0 +1,13 @@
+strands-agents[a2a]
+strands-agents-tools[a2a_client]
+bedrock-agentcore
+strands-agents-tools
+bedrock-agentcore-starter-toolkit
+requests
+fastapi
+uvicorn
+boto3
+streamlit
+PyPDF2
+PyMuPDF
+

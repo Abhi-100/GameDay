@@ -11,8 +11,7 @@ __pycache__/
 dist/
 build/
 
-# Zip archives (can be regenerated)
-*.zip
+# Keep zip archives for rollback
 
 # IDE
 .idea/
